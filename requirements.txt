@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+google-genai
+google-generativeai
+pillow>=10.0.0
+twilio>=8.0.0
+requests>=2.31.0
+streamlit-mic-recorder>=0.0.8
